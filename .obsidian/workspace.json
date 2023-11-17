@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "c977d5c162d482be",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b30dc554971b9c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bb7ff0eed2f6521",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e81b193bbea1bda3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Рациональное использование энергоресурсов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63a532605f9b4f00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "БЖЧ/Глобальные экологические проблемы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a0b9503a9d36f83",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f3cac5c7ee874b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c50993b8ccd45d01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ee505918fddb11c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6cba93b5d55b94cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "67425923a0752103",
+    "type": "split",
+    "children": [
+      {
+        "id": "a62cf041031f5631",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cd8a67e75cb0e3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Рациональное использование энергоресурсов.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c84f8897d23cb61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Рациональное использование энергоресурсов.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2cbe2d68f13fec5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a4dbe87fe3fd4c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Рациональное использование энергоресурсов.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e81b193bbea1bda3",
+  "lastOpenFiles": [
+    "Рациональное использование энергоресурсов.md",
+    "БЖЧ/Глобальные экологические проблемы.md",
+    "Тестирование/ЛР4.md",
+    "БЖЧ/Не традиционные источники энергии 1.md",
+    "БЖЧ/Энергосбережение.md",
+    "БЖЧ/Топливно-энергетические ресурсы.md",
+    "БЖЧ/Чернобыльская авария и ее последствия для Республки Беларусь.md",
+    "БЖЧ/ЧС вызванные АХОВ или СДЯВ.md",
+    "БЖЧ/Глобальные экономические проблемы 2.md",
+    "БЖЧ/Радбез.md",
+    "БЖЧ/Не традиционные источники энергии.md",
+    "БЖЧ/Классификация ЧС.md",
+    "БЖЧ/Защитные сооружения.md",
+    "БЖЧ/Защита населения в ЧС и Защитные сооружения (ЗС).md"
+  ]
+}
