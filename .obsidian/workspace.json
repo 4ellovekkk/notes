@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6b30dc554971b9c6",
+        "id": "6d0f4f78cfb89910",
         "type": "tabs",
         "children": [
           {
-            "id": "2bb7ff0eed2f6521",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "e81b193bbea1bda3",
+            "id": "e1ba0927f8167c35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рациональное использование энергоресурсов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63a532605f9b4f00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "БЖЧ/Глобальные экологические проблемы.md",
+                "file": "БЖЧ/Охрана труда.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Рациональное использование энергоресурсов.md",
+                "file": "БЖЧ/Охрана труда.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Рациональное использование энергоресурсов.md",
+                "file": "БЖЧ/Охрана труда.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Рациональное использование энергоресурсов.md"
+                "file": "БЖЧ/Охрана труда.md"
               }
             }
+          },
+          {
+            "id": "2bc81ce6a64f4884",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,18 +156,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e81b193bbea1bda3",
+  "active": "e1ba0927f8167c35",
   "lastOpenFiles": [
-    "Рациональное использование энергоресурсов.md",
-    "БЖЧ/Глобальные экологические проблемы.md",
-    "Тестирование/ЛР4.md",
-    "БЖЧ/Не традиционные источники энергии 1.md",
-    "БЖЧ/Энергосбережение.md",
     "БЖЧ/Топливно-энергетические ресурсы.md",
+    "БЖЧ/Энергосбережение.md",
+    "БЖЧ/Охрана труда.md",
     "БЖЧ/Чернобыльская авария и ее последствия для Республки Беларусь.md",
+    "Тестирование/ЛР4.md",
+    "БЖЧ/Глобальные экологические проблемы.md",
+    "БЖЧ/Рациональное использование энергоресурсов.md",
+    "README.md",
+    "БЖЧ/Не традиционные источники энергии 1.md",
+    "БЖЧ/Радбез.md",
     "БЖЧ/ЧС вызванные АХОВ или СДЯВ.md",
     "БЖЧ/Глобальные экономические проблемы 2.md",
-    "БЖЧ/Радбез.md",
     "БЖЧ/Не традиционные источники энергии.md",
     "БЖЧ/Классификация ЧС.md",
     "БЖЧ/Защитные сооружения.md",
