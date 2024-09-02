@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c27fc8d7c7585b25",
+        "id": "891ef6e3b0735100",
         "type": "tabs",
         "children": [
           {
-            "id": "02588ea092826169",
+            "id": "22df1233c69151ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проектирование БД/Лабы/ЛР1 Вариант 8 Кадры.md",
+                "file": "Философия/ЛК1 Философия в исторической динамике культуры.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "67425923a0752103",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проектирование БД/Лабы/ЛР1 Вариант 8 Кадры.md",
+                "file": "Философия/ЛК1 Философия в исторической динамике культуры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проектирование БД/Лабы/ЛР1 Вариант 8 Кадры.md",
+                "file": "Философия/ЛК1 Философия в исторической динамике культуры.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проектирование БД/Лабы/ЛР1 Вариант 8 Кадры.md"
+                "file": "Философия/ЛК1 Философия в исторической динамике культуры.md"
               }
             }
           },
@@ -137,13 +136,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "0b1ccdedcfb29e85",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,13 +160,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c50993b8ccd45d01",
+  "active": "22df1233c69151ef",
   "lastOpenFiles": [
-    "Проектирование БД/Лекции/ЛК1 Вводная.md",
+    "Web-сервисы/Сервис ориентированная архитектура ЛК1.md",
+    "Философия/ЛК1 Философия в исторической динамике культуры.md",
+    "Философия",
+    "ide.md",
+    "Web-сервисы",
     "Проектирование БД/Лабы/ЛР1 Вариант 8 Кадры.md",
+    "Проектирование БД/Лекции/ЛК3.md",
+    "Проектирование БД/Лекции/ЛК1 Вводная.md",
+    "ЛК2 Документация.md",
     "Проектирование БД/Лекции",
     "Проектирование БД/Лабы",
     "Тестирование/ЛР4.md",
