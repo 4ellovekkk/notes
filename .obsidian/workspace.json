@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ППО/ЛР1.md",
+                "file": "Бизнес и право/Порядок регистрации и ликивдации субъектов лк4.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Порядок регистрации и ликивдации субъектов лк4"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ППО/ЛР1.md",
+                "file": "АП РЕФЕРАТ/Обфускация программного кода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Обфускация программного кода"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ППО/ЛР1.md",
+                "file": "АП РЕФЕРАТ/Обфускация программного кода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Обфускация программного кода"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ППО/ЛР1.md"
-              }
+                "file": "АП РЕФЕРАТ/Обфускация программного кода.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Обфускация программного кода"
             }
           }
         ]
@@ -148,7 +164,14 @@
   },
   "active": "d3ff38937833072b",
   "lastOpenFiles": [
+    "Бизнес и право/Правовое регклирование it бизнеса лк3.md",
+    "Бизнес и право/Порядок регистрации и ликивдации субъектов лк4.md",
+    "Бизнес и право/Правовое регулирование IT-бизнеса лк2.md",
+    "АП РЕФЕРАТ/Обфускация программного кода.md",
     "ППО/ЛР1.md",
+    "АП РЕФЕРАТ",
+    "Бизнес и право/Основы бизнеса и права в информационных технологиях лк1.md",
+    "Web-сервисы/AWS.md",
     "ППО"
   ]
 }
